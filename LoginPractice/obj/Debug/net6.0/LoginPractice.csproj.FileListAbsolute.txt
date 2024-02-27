@@ -1,0 +1,14 @@
+C:\Users\fatimaeg\Desktop\LoginPractice\LoginPractice\bin\Debug\net6.0\LoginPractice.exe
+C:\Users\fatimaeg\Desktop\LoginPractice\LoginPractice\bin\Debug\net6.0\LoginPractice.deps.json
+C:\Users\fatimaeg\Desktop\LoginPractice\LoginPractice\bin\Debug\net6.0\LoginPractice.runtimeconfig.json
+C:\Users\fatimaeg\Desktop\LoginPractice\LoginPractice\bin\Debug\net6.0\LoginPractice.dll
+C:\Users\fatimaeg\Desktop\LoginPractice\LoginPractice\bin\Debug\net6.0\LoginPractice.pdb
+C:\Users\fatimaeg\Desktop\LoginPractice\LoginPractice\obj\Debug\net6.0\LoginPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatimaeg\Desktop\LoginPractice\LoginPractice\obj\Debug\net6.0\LoginPractice.AssemblyInfoInputs.cache
+C:\Users\fatimaeg\Desktop\LoginPractice\LoginPractice\obj\Debug\net6.0\LoginPractice.AssemblyInfo.cs
+C:\Users\fatimaeg\Desktop\LoginPractice\LoginPractice\obj\Debug\net6.0\LoginPractice.csproj.CoreCompileInputs.cache
+C:\Users\fatimaeg\Desktop\LoginPractice\LoginPractice\obj\Debug\net6.0\LoginPractice.dll
+C:\Users\fatimaeg\Desktop\LoginPractice\LoginPractice\obj\Debug\net6.0\refint\LoginPractice.dll
+C:\Users\fatimaeg\Desktop\LoginPractice\LoginPractice\obj\Debug\net6.0\LoginPractice.pdb
+C:\Users\fatimaeg\Desktop\LoginPractice\LoginPractice\obj\Debug\net6.0\LoginPractice.genruntimeconfig.cache
+C:\Users\fatimaeg\Desktop\LoginPractice\LoginPractice\obj\Debug\net6.0\ref\LoginPractice.dll
